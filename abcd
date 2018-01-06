@@ -1,0 +1,5 @@
+vagrant:x:1000:1000::/home/vagrant:/bin/bash
+colord:x:106:112:colord colour management daemon,,,:/var/lib/colord:/bin/false
+statd:x:107:65534::/var/lib/nfs:/bin/false
+puppet:x:108:114:Puppet configuration management daemon,,,:/var/lib/puppet:/bin/false
+ubuntu:x:1001:1001:Ubuntu:/home/ubuntu:/bin/bash
